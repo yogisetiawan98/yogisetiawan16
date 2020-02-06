@@ -4,7 +4,7 @@
         <tr>
             <td>No.</td>
             <td>Id</td>
-            <td>Kadal</td>
+            <td>YogiGanteng</td>
             <td>Supplier</td>
             <td>Harga</td>
             <td>Detail</td>
