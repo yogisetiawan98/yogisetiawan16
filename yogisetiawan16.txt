@@ -4,7 +4,7 @@
         <tr>
             <td>No.</td>
             <td>Id</td>
-            <td>Nama</td>
+            <td>Kadal</td>
             <td>Supplier</td>
             <td>Harga</td>
             <td>Detail</td>
@@ -26,7 +26,7 @@
             while ($row = $result->fetch_assoc()) {
                 $no++;
                 ?>
-
+//Eaaaa
                 <tr class="">
                     <td><?php echo $no; ?></td>
                     <td><?php echo $row['Id']; ?></td>
